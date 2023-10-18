@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\C#\OOP-Csharp\bin\Debug\net7.0\OOP-Csharp.exe
+C:\Users\hp\Desktop\C#\OOP-Csharp\bin\Debug\net7.0\OOP-Csharp.deps.json
+C:\Users\hp\Desktop\C#\OOP-Csharp\bin\Debug\net7.0\OOP-Csharp.runtimeconfig.json
+C:\Users\hp\Desktop\C#\OOP-Csharp\bin\Debug\net7.0\OOP-Csharp.dll
+C:\Users\hp\Desktop\C#\OOP-Csharp\bin\Debug\net7.0\OOP-Csharp.pdb
+C:\Users\hp\Desktop\C#\OOP-Csharp\obj\Debug\net7.0\OOP-Csharp.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\C#\OOP-Csharp\obj\Debug\net7.0\OOP-Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\C#\OOP-Csharp\obj\Debug\net7.0\OOP-Csharp.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\C#\OOP-Csharp\obj\Debug\net7.0\OOP-Csharp.AssemblyInfo.cs
+C:\Users\hp\Desktop\C#\OOP-Csharp\obj\Debug\net7.0\OOP-Csharp.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C#\OOP-Csharp\obj\Debug\net7.0\OOP-Csharp.dll
+C:\Users\hp\Desktop\C#\OOP-Csharp\obj\Debug\net7.0\refint\OOP-Csharp.dll
+C:\Users\hp\Desktop\C#\OOP-Csharp\obj\Debug\net7.0\OOP-Csharp.pdb
+C:\Users\hp\Desktop\C#\OOP-Csharp\obj\Debug\net7.0\OOP-Csharp.genruntimeconfig.cache
+C:\Users\hp\Desktop\C#\OOP-Csharp\obj\Debug\net7.0\ref\OOP-Csharp.dll
