@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\backend\Training-Task-1\bin\Debug\net6.0\Training-Task-1.exe
+C:\Users\hp\Desktop\backend\Training-Task-1\bin\Debug\net6.0\Training-Task-1.deps.json
+C:\Users\hp\Desktop\backend\Training-Task-1\bin\Debug\net6.0\Training-Task-1.runtimeconfig.json
+C:\Users\hp\Desktop\backend\Training-Task-1\bin\Debug\net6.0\Training-Task-1.dll
+C:\Users\hp\Desktop\backend\Training-Task-1\bin\Debug\net6.0\Training-Task-1.pdb
+C:\Users\hp\Desktop\backend\Training-Task-1\obj\Debug\net6.0\Training-Task-1.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\backend\Training-Task-1\obj\Debug\net6.0\Training-Task-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\backend\Training-Task-1\obj\Debug\net6.0\Training-Task-1.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\backend\Training-Task-1\obj\Debug\net6.0\Training-Task-1.AssemblyInfo.cs
+C:\Users\hp\Desktop\backend\Training-Task-1\obj\Debug\net6.0\Training-Task-1.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\backend\Training-Task-1\obj\Debug\net6.0\Training-Task-1.dll
+C:\Users\hp\Desktop\backend\Training-Task-1\obj\Debug\net6.0\refint\Training-Task-1.dll
+C:\Users\hp\Desktop\backend\Training-Task-1\obj\Debug\net6.0\Training-Task-1.pdb
+C:\Users\hp\Desktop\backend\Training-Task-1\obj\Debug\net6.0\Training-Task-1.genruntimeconfig.cache
+C:\Users\hp\Desktop\backend\Training-Task-1\obj\Debug\net6.0\ref\Training-Task-1.dll
